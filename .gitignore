@@ -1,0 +1,7 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+secret_keys_file
+*.tfvars
+.env
+.terraform.lock.hcl
